@@ -14,7 +14,17 @@
 + [Java T Point](https://www.javatpoint.com/c-programming-language-tutorial)
 
 ----
+## Go Lang
++ [Official Documentation](https://go.dev/doc/)
+
+----
+## Rust
++ [Official Documentation](https://doc.rust-lang.org/book/title-page.html)
+
 ## Python
++ [Official Documentation](https://docs.python.org/3/tutorial/)
+
 + [Solo Learn](https://www.sololearn.com/learning/1073)
 
 + [Invent with Python](https://inventwithpython.com/bigbookpython/project1.html)
+----
