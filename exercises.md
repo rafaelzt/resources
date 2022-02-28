@@ -7,8 +7,14 @@
 ## Go
 + [Exercism - Track GoLang](https://exercism.org/tracks/go/)
 
+## Rust
++ [Exercism - Track Rust](https://exercism.org/tracks/rust/)
+
 ## Python
 + [Exercism - Track Python](https://exercism.org/tracks/python/)
+
+## Bash Script
++ [Exercism - Track Bash](https://exercism.org/tracks/bash/)
 
 ## JS
 + [Exercism - Track JS](https://exercism.org/tracks/javascript/)
