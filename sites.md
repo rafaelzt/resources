@@ -14,3 +14,7 @@
 + [Java T Point](https://www.javatpoint.com/c-programming-language-tutorial)
 
 ----
+## Python
++ [Solo Learn](https://www.sololearn.com/learning/1073)
+
++ [Invent with Python](https://inventwithpython.com/bigbookpython/project1.html)
