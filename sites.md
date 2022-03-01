@@ -13,6 +13,8 @@
 
 + [Java T Point](https://www.javatpoint.com/c-programming-language-tutorial)
 
++ [Flavio Copes](https://flaviocopes.com/tags/clang/)
+
 ----
 ## Go Lang
 + [Official Documentation](https://go.dev/doc/)
